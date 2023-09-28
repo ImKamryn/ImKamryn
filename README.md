@@ -1,12 +1,12 @@
 ### Hi there, I'm Kamryn 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Kam_The_Fam1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=Kam_The_Fam1)
-## I'm a student learning how to code.
-- 🔭I am a girl who wants to be a Pilot.
+[![Twitter Follow](https://img.shields.io/twitter/follow/KamrynTheMenace?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=KamrynTheMenace)
+## Kamryn fr
+- 🔭Fly planes
 - 🌱 
 - 👯 
 - 🥅 
-- ⚡ Fun fact: I love playing video games and cooking.
+- ⚡ 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Kamryn Spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 ### Connect with me:
