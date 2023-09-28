@@ -2,13 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/KamrynTheMenace?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=KamrynTheMenace)
 ## Kamryn fr
-- 🔭Fly planes
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
+- ✈️Fly planes
+- 🔭 Photographer
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Kamryn Spotify" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Kamryn Spotify" width="350" />](https://open.spotify.com/user/21fhtxfifix4o3dlefpxmoyyq)
 ### Connect with me:
 [<img align="left" alt="Kamryn | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Kamryn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -34,10 +31,10 @@ Discord: Im_Kamryn
 <br />
 <br />
 ---
-[website]: https://github.com/KamTheFam
-[twitter]: https://twitter.com/Kam_The_Fam1
+[website]: https://github.com/ImKamryn
+[twitter]: https://twitter.com/KamrynTheMenace
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[twitch]: https://www.twitch.tv/kam_the_fam
+[twitch]: https://www.twitch.tv/Im_Kamryn
